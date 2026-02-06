@@ -16,9 +16,10 @@ This is meant to be both a working archive and a learning reference.
 
 ## Current Models
 
-- Multiclass ANN classifier
-- Nonlinear regression model
-- VGG16 transfer learning / fine-tuning pipeline
+- Multiclass ANN classifier  
+- Nonlinear regression model  
+- VGG16 transfer learning / fine-tuning pipeline  
+- U-Net image segmentation model
 
 Each folder contains:
 - model code
@@ -47,9 +48,6 @@ More models and experiments will be added over time, including:
 - optimization experiments
 - evaluation pipelines
 - model comparison studies
+- additional segmentation architectures
 
 This repo will evolve as a long-term ML playground.
-
----
-
-
